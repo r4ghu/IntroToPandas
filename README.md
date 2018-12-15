@@ -1,5 +1,5 @@
 # IntroToPandas
-This repo has material covered in 'Intro to Pandas' talk given as a part of Victoria Data Science Meetup.
+This repo contains material covered in 'Intro to Pandas' talk given as a part of Victoria Data Science Meetup.
 
 
 ## Requirements
