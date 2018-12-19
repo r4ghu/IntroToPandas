@@ -6,6 +6,7 @@ This repo contains material covered in 'Intro to Pandas' talk given as a part of
 
 - Anaconda (Download Link: https://www.anaconda.com/download/)
 - Windows/Mac/Linux machine
+- Some convenient IDE: [VSCode](https://code.visualstudio.com/), [PyCharm](https://www.jetbrains.com/pycharm/) etc.
 
 ## Environment Setup
 
@@ -14,7 +15,7 @@ This repo contains material covered in 'Intro to Pandas' talk given as a part of
 $ conda create -n Intro2Pandas python=3.6
 $ source activate Intro2Pandas
 (Intro2Pandas) $ conda install pandas
-(Intro2Pandas) $ pip install kaggle --upgrade
+(Intro2Pandas) $ conda install jupyter notebook
 ```
 
 ## Dataset
