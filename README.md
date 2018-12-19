@@ -22,6 +22,15 @@ $ source activate Intro2Pandas
 
 For this talk we will be using the Kaggle's Competition dataset - 'House Prices: Advanced Regression Techniques'. Kaggle is a great place to participate and learn Data Science related concepts and it has a rich community ranging from Beginners to Advanced. If you haven't created an account yet, please sign up, join the competition and download the data from the following link - https://www.kaggle.com/c/house-prices-advanced-regression-techniques
 
+## Tutorial
+
+Once the environment is setup. You can run `jupyter notebook` and start following the `Intro to Pandas.ipynb` notebook. The **objectives** of the talk are as follows:
+- Get familiarized with **Kaggle**
+- Understand how to use **Pandas** library
+- Cover foundations for data science.
+- **Submit final results** to the Kaggle competition.
+
+By the end of this talk, you will see yourself on the leaderboard of an ongoing data science competition on Kaggle :-)
 
 ## Author
 
