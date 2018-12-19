@@ -20,7 +20,7 @@ $ source activate Intro2Pandas
 
 ## Dataset
 
-For this talk we will be using the Kaggle's Competetition dataset - 'House Prices: Advanced Regression Techniques'. Kaggle is a great place to participate and learn Data Science related concepts and it has a rich community ranging from Beginners to Advanced. If you haven't created an account yet, please sign up, join the competition and download the data from the following link - https://www.kaggle.com/c/house-prices-advanced-regression-techniques
+For this talk we will be using the Kaggle's Competetion dataset - 'House Prices: Advanced Regression Techniques'. Kaggle is a great place to participate and learn Data Science related concepts and it has a rich community ranging from Beginners to Advanced. If you haven't created an account yet, please sign up, join the competition and download the data from the following link - https://www.kaggle.com/c/house-prices-advanced-regression-techniques
 
 
 ## Author
